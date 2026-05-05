@@ -6,7 +6,7 @@ import { FaMapMarkerAlt, FaTrophy, FaChartBar } from "react-icons/fa";
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero";
 import Card from "./components/Card/Card";
-import Issues from "./components/issues/issues";
+import Issues from "./components/Issues/Issues";
 import Leaderboard from "./components/Leaderboard/Leaderboard";
 import OptOutList from "./components/OptOutList/OptOutList";
 import ProfileSetup from "./components/ProfileSetup/ProfileSetup";
